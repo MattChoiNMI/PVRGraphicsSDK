@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/PFX Language Format.Specification.pdf</key>
+		<data>
+		m2DV0jZGakF3uTPabz7POImCRnc=
+		</data>
+		<key>Resources/PVRShaderEditor.User Manual.pdf</key>
+		<data>
+		xcYxu7F7aECzRUgSuQxOy32r/8w=
+		</data>
+		<key>Resources/PVRShaderEditor.icns</key>
+		<data>
+		bmuLQjLXwjbQGBUbeMvZSbEkFC4=
+		</data>
+		<key>Resources/PVRShaderEditor_CL.icns</key>
+		<data>
+		ImZa4pB6MAjHF3WO72yuPaxiSR8=
+		</data>
+		<key>Resources/PVRShaderEditor_FSH.icns</key>
+		<data>
+		DgV6VgUAZKkDCXEDiECP/+mizBQ=
+		</data>
+		<key>Resources/PVRShaderEditor_GLSL.icns</key>
+		<data>
+		0yO96zaXywlHRFKiW6ZYPLtOWUY=
+		</data>
+		<key>Resources/PVRShaderEditor_PFX.icns</key>
+		<data>
+		NkkTudpRx2Htsu4PPB7zRe1FgQo=
+		</data>
+		<key>Resources/PVRShaderEditor_VSH.icns</key>
+		<data>
+		+IQ7vWyV1emXizZdpiQ/B8QH8qE=
+		</data>
+		<key>Resources/qt.conf</key>
+		<data>
+		KT08aiOIy1k+9vqxoKjgVYon0CM=
+		</data>
+		<key>Resources/update.ini</key>
+		<data>
+		Gi8OklTkZfxIECoyHZ4jLJAuRy0=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

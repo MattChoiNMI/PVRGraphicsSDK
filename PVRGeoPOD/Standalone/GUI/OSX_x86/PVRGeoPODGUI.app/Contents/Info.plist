@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12C60</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>PVRGeoPOD_DAE.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Collada Digital Asset Exchange</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>org.khronos.collada.digital-asset-exchange</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>PVRGeoPODGUI</string>
+	<key>CFBundleGetInfoString</key>
+	<string>2.14.2. Copyright (c) Imagination Technologies Ltd. All Rights Reserved</string>
+	<key>CFBundleIconFile</key>
+	<string>PVRGeoPOD.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.powervr.PVRGeoPODGUI</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PVRGeoPOD</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.14.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>000200140002</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>4G2008a</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>12C37</string>
+	<key>DTSDKName</key>
+	<string>macosx10.8</string>
+	<key>DTXcode</key>
+	<string>0452</string>
+	<key>DTXcodeBuild</key>
+	<string>4G2008a</string>
+	<key>LSRequiresCarbon</key>
+	<true/>
+</dict>
+</plist>
